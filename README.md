@@ -8,6 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mcndede/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/mcndede/configure-ad/blob/main/README.md)
+  - [Configuring User Permissions in Active Directory with Azure VMs](https://github.com/mcndede/configure-ad/blob/main/README.md)
   
 
 <h2>🤳Connect with me:</h2>
