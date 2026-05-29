@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
  - <b>Microsoft Powershell</b>
-   - [osTicket: Ticket Lifecycle Examples](https://github.com/mcndede/ticket-lifecycle)
+   - [Powershell: Powershell Automation Code](https://github.com/mcndede/powershell-ad-os-updater)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mcndede/osticket-prereqs)
